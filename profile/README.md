@@ -1,6 +1,6 @@
 # <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"> Stratesys
 
-Repositório Stratesys LATAM para colaboração e desenvolvimento de ativos digitais.
+Repositório Stratesys Activos Digitales - xECM LATAM foi criada para colaboração e desenvolvimento de ativos digitais.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Sobre a Organização
 
