@@ -32,13 +32,26 @@ Este repositório específico, Activos-Digitales-xECM-LATAM, tem como foco:
 
 ```bash
 Activos-Digitales-xECM-LATAM/
-
-├── /codigo/           # Códigos-fonte em desenvolvimento
-├── /ideias/           # Propostas e brainstorms
-├── /backlog/          # Funcionalidades e melhorias pendentes
-├── /andamento/        # Tarefas em execução com status e responsáveis
-└── README.md          # Documentação 
-
+├── /codigo/               # Códigos-fonte em desenvolvimento
+│   ├── /modulo_1/         # Submódulos ou pastas com funcionalidades específicas
+│   ├── /modulo_2/
+│   └── main.py            # Arquivo principal ou scripts de execução
+│
+├── /ideias/               # Propostas, brainstorms e documentação de novas funcionalidades
+│   ├── /ideias_iniciais/  # Ideias ainda não validadas ou em estágio inicial
+│   └── /ideias_validadas/ # Ideias que foram discutidas e estão em processo de análise
+│
+├── /backlog/              # Funcionalidades e melhorias pendentes
+│   ├── /features/         # Novas funcionalidades que precisam ser desenvolvidas
+│   ├── /bug-fixes/        # Correções de bugs que precisam ser feitas
+│   └── /improvements/     # Melhorias ou ajustes no código existente
+│
+├── /andamento/            # Tarefas em execução, status e responsáveis
+│   ├── /em_progresso/     # Tarefas que estão em desenvolvimento no momento
+│   ├── /concluidas/       # Tarefas que foram concluídas
+│   └── /pendentes/        # Tarefas que aguardam revisão ou dependem de outras
+│
+└── README.md              # Documentação do projeto: objetivos, como rodar, requisitos
 ```
 
 ## 🚀 Como Contribuir
