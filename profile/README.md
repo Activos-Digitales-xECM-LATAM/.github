@@ -4,7 +4,7 @@
 
 Repositório Stratesys Activos Digitales - xECM LATAM para colaboração e desenvolvimento de ativos digitais.
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Sobre a Organização
+## 🌐 Sobre a Organização
 
 A organização no GitHub foi criada com o objetivo de unificar os repositórios, projetos e iniciativas tecnológicas da equipe regional em um só lugar. Este ambiente serve como ponto central para:
 
