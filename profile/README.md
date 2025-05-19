@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"  width="300px" align="right" alt="Computador iuriCode">
-
 # <img src ="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30" height="30" style="margin-right: 10px;"> Stratesys
 
 Este repositório é dedicado ao desenvolvimento e colaboração de **Activos Digitales xECM LATAM**. É um ponto de centralização para o desenvolvimento colaborativo, gestão de ideias e tarefas, e compartilhamento de boas práticas.
